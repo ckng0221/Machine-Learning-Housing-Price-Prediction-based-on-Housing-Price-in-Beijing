@@ -8,5 +8,6 @@ This is the repository for the Case Study for WQD7003 Data Analytics.
 
 <br>
 Dataset: "new.csv"
+
 - Original dataset fetched from "Housing price in Beijing" from Kaggle.com.
 - URL: https://www.kaggle.com/ruiqurm/lianjia.
