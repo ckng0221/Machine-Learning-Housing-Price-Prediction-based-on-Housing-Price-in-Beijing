@@ -6,6 +6,6 @@ Authors
 - Name: Ng Choon Khon   &nbsp; &nbsp; &nbsp; &nbsp; ID: S2028941
 - Name: Sim Jia Yik     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ID: 
 
-
+<br>
 Dataset: "new.csv"
 - Original dataset fetched from "Housing price in Beijing" from Kaggle.com https://www.kaggle.com/ruiqurm/lianjia.
