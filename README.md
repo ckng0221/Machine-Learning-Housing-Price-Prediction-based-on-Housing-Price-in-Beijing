@@ -8,4 +8,4 @@ Authors
 
 
 Dataset: "new.csv"
-Original dataset fetched from "Housing price in Beijing" from Kaggle.com https://www.kaggle.com/ruiqurm/lianjia.
+- Original dataset fetched from "Housing price in Beijing" from Kaggle.com https://www.kaggle.com/ruiqurm/lianjia.
