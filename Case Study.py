@@ -516,19 +516,6 @@ def load_model(filename):
 # forest_model = load_model('randomforest.sav')
 
 
-# In[38]:
-
-
-get_ipython().run_cell_magic('time', '', "## Support Vector Machine\n\nfrom sklearn.svm import SVR\n\nsvm_model = SVR(kernel='rbf')\nsvm_model.fit(X_train, y_train)")
-
-
-# In[ ]:
-
-
-svm_y_test_predict, svm_test_rmse, svm_test_score = display_scores(svm_model,X_train, y_train, 
-                                                               X_test, y_test)
-
-
 # In[97]:
 
 
@@ -707,6 +694,7 @@ result_data = {
 # In[166]:
 
 
+# Results of Machine Learning Models
 results = pd.DataFrame(result_data).sort_values(by='RMSE')
 results
 
