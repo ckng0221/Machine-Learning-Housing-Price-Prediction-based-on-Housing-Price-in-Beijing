@@ -3,8 +3,8 @@
 This is the repository for the Case Study for WQD7003 Data Analytics. 
 
 Authors
-- Name: Ng Choon Khon   ID: S2028941
-- Name: Sim Jia Yik     ID: 
+- Name: Ng Choon Khon   &nbsp; &nbsp; &nbsp; &nbsp; ID: S2028941
+- Name: Sim Jia Yik     &nbsp; &nbsp; &nbsp; &nbsp; ID: 
 
 
 Dataset: "new.csv"
