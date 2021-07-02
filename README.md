@@ -1,6 +1,6 @@
 # Case Study : Machine Learning Housing Price Prediction based on Housing Price in Beijing
 
-This is the repository for the Case Study for WQD7003 Data Analytics for March 2021 Semester.
+This is the repository for the Case Study for WQD7003 Data Analytics for 2020/2021 Semester II.
 
 <b>Authors</b>
 - Name: Ng Choon Khon   &nbsp; &nbsp; &nbsp; &nbsp; ID: S2028941
